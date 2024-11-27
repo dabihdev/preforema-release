@@ -1,13 +1,13 @@
 # PREFOREMA - PREtemp FOREcast MAnager
 
-PREFOREMA è un'applicazione finalizzata a velocizzare, semplificare e standardizzare il lavoro di previsione dei meteorologi di [PRETEMP][https://www.pretemp.it/].
+PREFOREMA è un'applicazione finalizzata a velocizzare, semplificare e standardizzare il lavoro di previsione dei meteorologi di (PRETEMP][https://www.pretemp.it/).
 
 ## Requisiti di sistema
 PREFOREMA è al momento ancora in fase di test. Dovrebbe funzionare su tutti i **sistemi Windows a 64bit**.
 
 ## Installazione
 Per installare PREFOREMA:
-1. Andare alla pagina github di [PREFOREMA][https://www.github.com/dabihdev/preforema-release].
+1. Andare alla pagina github di [PREFOREMA](https://www.github.com/dabihdev/preforema-release).
 2. Cliccare sul pulsante "Code", poi, nel menu a tendina, su "Download ZIP".
 3. Salvare la cartella zippata dove si preferisce e dezipparla.
 4. Aggiungere la cartella `assets/` nella root del progetto. La cartella `assets` sarà fornita da PRETEMP. Questa cartella è **essenziale** affinché il programma funzioni.
