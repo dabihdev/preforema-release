@@ -17,6 +17,6 @@ Per installare PREFOREMA:
 L'utilizzo di PREFOREMA è molto immediato. Seguire le istruzioni che il programma vi presenta per i diversi passaggi. Per informazioni più dettagliate sarà sufficiente digitare `i` e premere invio.
 
 ## Problemi comuni e come risolverli
-- ** cartella `assets/` non trovata** --> richiedi l'ultima versione della cartella `assets/` e aggiungila nella cartella principale del progetto;
+- **cartella `assets/` non trovata** --> richiedi l'ultima versione della cartella `assets/` e aggiungila nella cartella principale del progetto;
 - PREFOREMA al momento **funziona solo su Windows**, non su Linux o macOS;
 - il vostro antivirus potrebbe segnalare il programma come malware o bloccarne l'accesso alle cartelle. Tuttavia il programma è sicuro, quindi potete "tranquillizzare" i vostri sistemi antivirus.
